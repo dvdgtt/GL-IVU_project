@@ -4,8 +4,7 @@ Project developed for the exam of Image and Video Understanding. The goal is to 
 
 Repository structure:
 
-- Raw images are stored in the "data" folder, use create_train.py to re-create the patches and noise dataset, you'll probably need to update the paths on "all_analysis"
-- Patches will be saved in the "patches" repository
+- Original data are not in this repository
 - checkpoints contains the last-trained NN versions
 - enviroment is available
 
